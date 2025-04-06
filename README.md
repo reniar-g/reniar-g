@@ -1,6 +1,6 @@
-## i'm rai ^_____^
+## hi, i'm rai ^_____^
 
-![rai's GitHub stats](https://github-readme-stats-pi-peach-65.vercel.app/api?username=reniar-g&show_icons=true&theme=github_dark&rank_icon=github&custom_title=my%20stats!%20:3&card_width=400)
+![rai's GitHub stats](https://github-readme-stats-pi-peach-65.vercel.app/api?username=reniar-g&show_icons=true&theme=github_dark&rank_icon=github&custom_title=my%20stats!%20(●'◡'●)&card_width=400)
 <!--
 **reniar-g/reniar-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
