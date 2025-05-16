@@ -9,11 +9,11 @@ I am a freshman at De La Salle University Manila, taking up a BS in Computer Sci
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-topaz-zeta-33.vercel.app/api/top-langs/?username=reniar-g&theme=github_dark&layout=compact&card_width=500" />
+  <img src="https://github-readme-stats-topaz-zeta-33.vercel.app/api/top-langs/?username=reniar-g&theme=github_dark&layout=compact&card_width=500&exclude_repo=github-readme-streak-stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reniar-g&theme=github_dark_blue&hide_border=false&card_width=570" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reniar-g&theme=github_dark_blue&hide_border=false&card_width=550" />
 </p>
 
 
