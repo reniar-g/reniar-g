@@ -4,11 +4,19 @@ I am a freshman at De La Salle University Manila, taking up a BS in Computer Sci
 
 ## 📈 GitHub Stats
 
-![rai's GitHub stats](https://github-readme-stats-topaz-zeta-33.vercel.app/api?username=reniar-g&show_icons=true&theme=github_dark&rank_icon=github&custom_title=my%20stats!%20(●'◡'●)&card_width=400)
-![reniar-g's Streak](https://github-readme-streak-stats.herokuapp.com/?user=reniar-g&theme=github_dark_blue&hide_border=false&card_width=570)
 <p align="center">
-  <img src="https://github-readme-stats-topaz-zeta-33.vercel.app/api/top-langs/?username=reniar-g&theme=github_dark&layout=compact&card_width=600" />
+  <img src="https://github-readme-stats-topaz-zeta-33.vercel.app/api?username=reniar-g&show_icons=true&theme=github_dark&rank_icon=github&custom_title=my%20stats!%20(●'◡'●)&card_width=400" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats-topaz-zeta-33.vercel.app/api/top-langs/?username=reniar-g&theme=github_dark&layout=compact&card_width=500" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reniar-g&theme=github_dark_blue&hide_border=false&card_width=570" />
+</p>
+
+
 Note: Top languages are only a metric of the languages my repository consists of and doesn't reflect my experience or skill level.
 
 ## 📫 Get In Touch
@@ -20,4 +28,6 @@ Note: Top languages are only a metric of the languages my repository consists of
 <!--
 **reniar-g/reniar-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Top Langs](https://github-readme-stats-topaz-zeta-33.vercel.app/api/top-langs/?username=reniar-g&theme=github_dark&layout=compact&card_width=970)](https://github.com/anuraghazra/github-readme-stats)
+![rai's GitHub stats](https://github-readme-stats-topaz-zeta-33.vercel.app/api?username=reniar-g&show_icons=true&theme=github_dark&rank_icon=github&custom_title=my%20stats!%20(●'◡'●)&card_width=400)
+![reniar-g's Streak](https://github-readme-streak-stats.herokuapp.com/?user=reniar-g&theme=github_dark_blue&hide_border=false&card_width=570)
 
