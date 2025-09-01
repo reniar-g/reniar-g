@@ -1,6 +1,6 @@
 # Hi, I'm Rai! 👋
 
-I am a freshman at De La Salle University Manila, taking up a BS in Computer Science with a major in Computer Systems Engineering. 
+I am a sophomore at De La Salle University Manila, pursuing a BS in Computer Science with a major in Network and Information Security. 
 
 ## 📈 GitHub Stats
 
